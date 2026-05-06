@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 23, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mestaghrab-surprised/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Official Music Licensing for Mestaghrab – Surprised](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
